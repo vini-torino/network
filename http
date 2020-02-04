@@ -1,0 +1,22 @@
+http - hypertext transfer protocol
+
+- The dominat Application Layer Protocol on the internet .
+
+- Iventend for the web -to Retrive HTML, Images, Documents, etc
+
+- Extended to be data  in addition to documents - RSS, Web,
+Services , etc. 
+Basic Comcept 
+- Make a Connection 
+- Request a document
+- Retrive the document
+- close the connection 
+
+
+http://www.dr-chuck.com/page1.htm
+
+protocol
+host
+file 
+
+Getting data from the server 
